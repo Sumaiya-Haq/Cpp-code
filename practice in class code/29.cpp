@@ -17,9 +17,9 @@ int main()
 {
     Rectangle rect;
     float area1,area2;
-    area1=rect.area(4,5);
+    area1=rect.area(7,8);
     cout<<"First area is= "<<area1<<" Units"<<endl;
-    area2=rect.area(5,8);
+    area2=rect.area(9,8);
     cout<<"Second area is= "<<area2<<" units"<<endl;
 
 }
