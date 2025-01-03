@@ -1,0 +1,3 @@
+s 2 82 B
+sumaiay 137 90 A
+sumaiya 137 83 B
