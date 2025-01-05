@@ -1,3 +1,6 @@
 s 2 82 B
 sumaiay 137 90 A
 sumaiya 137 83 B
+sum 12 87 B
+s 23 83 B
+mondol 1 57.3 Fail
