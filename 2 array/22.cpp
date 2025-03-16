@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int arr[] = {5, 2, 9, 2, 7, 9, 1};
-    int size = sizeof(arr) / sizeof(arr[0]);
+    int size = sizeof(arr[0]);
     sort(arr, arr + size);
 
     int newSize = 1;  
