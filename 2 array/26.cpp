@@ -21,12 +21,12 @@ int main() {
         if (A[i] == b) {
             cout << "Element found at index: " << i + 1 << endl;
             c = 1;
-            break;  // Stop searching after finding the first occurrence
+            break;  
         }
     }
     
     if (c == 0) {
-        cout << "-1" << endl;  // Print -1 if element is not found
+        cout << "-1" << endl;  
     }
     
     return 0;
